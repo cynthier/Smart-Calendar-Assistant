@@ -2,6 +2,9 @@
 
 A lightweight, privacy-focused Chrome extension (Manifest V3) designed to help users intelligently extract event details from active webpages and sync them directly to Google Calendar with a single click.
 
+https://chromewebstore.google.com/detail/smart-calendar-assistant/ljghlclpbpjfjfoljehjjnkijgongmkd?hl=zh-CN 
+<img width="1905" height="528" alt="image" src="https://github.com/user-attachments/assets/4a3e39f9-c161-4061-b9ba-cd3a812ff52a" />
+
 ---
 
 ## ✨ Features
